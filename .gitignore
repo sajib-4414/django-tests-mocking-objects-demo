@@ -117,7 +117,7 @@ dmypy.json
 
 
 #other files
-idea/
+.idea/
 .pytest_cache
 products/__pycache__/
 testing/__pycache__/
