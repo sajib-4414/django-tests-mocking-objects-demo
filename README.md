@@ -4,3 +4,6 @@
 - used pytest.mark.django_db to mock database
 - used RequestFactory to mock request
 - used AnonymousUser to mock a non logged in user
+
+Tutorials which are taken help from : 
+- https://www.youtube.com/watch?v=B-qYGeLpUtE (full series)
